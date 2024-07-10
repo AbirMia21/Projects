@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Hello World",
+    "version": "1.0.0",  
+    "description": "Hello World Extension",
+    "icons": {
+        "128": "Robsonbillponte-Happy-Holidays-Pictures.512.png",
+        "48": "Robsonbillponte-Happy-Holidays-Pictures.512_3.png",
+        "16": "Robsonbillponte-Happy-Holidays-Pictures.512_2.png"
+    },
+    "browser_action": {
+        "default_icon": "Robsonbillponte-Happy-Holidays-Pictures.512_2.png",
+        "default_popup": "popup.html"
+    }
+}
